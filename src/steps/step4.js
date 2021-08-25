@@ -1,3 +1,4 @@
+import React  from 'react';
 import '../App.css';
 import { Head } from '../components/Heading'
 import {Chips} from '../components/chips'
